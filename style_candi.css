@@ -218,7 +218,8 @@ i:hover{
 
 }
 #rJobs {
-
+	position: relative;
+	top: 150px;
 
 
 }
@@ -236,9 +237,8 @@ td {
 }
 
 #vMore{
-	position: absolute;
-	left: 890px;
-	top: 600px;
+	position: relative;
+	left: 800px;
 }
 
 
@@ -303,58 +303,154 @@ td {
 
 }
 
-.footerCont{
-	background-color: #07254F;
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	height: 250px;
+
+
+
+.infoClass{
+	padding: 50px
+
 }
 
-.footerLogo{
+.infoClass h3{
 	position: relative;
-	top: 20px;
-	left: 500px;
-
-}
-
-.fText_1{
-	color: white;
-	position: absolute;
-	left: 100px;
+	top: -30px;
 
 
 }
 
-.fText_2{
-	color: white;
-	position: absolute;
-	left: 400px
+.infoTable{
+	position: relative;
+	left: -50px;
+	top: -52px;
+	width: 1010px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	color: #494949;
+
+
 	
 
 }
 
-.fText_3{
-	color: white;
-	position: absolute;
-	left: 700px
-}
-
-.fFollow{
-	color: white;
-	position: absolute;
-	left: 1000px
+.infoTable td{
+  text-align: left;
+  padding: 10px 0px 5px 50px;
 
 }
 
-.footerWhite{
+.infoTable th { 
+  background-color: #EFEFEF;
+  text-align: left;
+  padding-top: 50px;
+  padding-left: 50px;
+  
+
+ 
+
+}
+
+
+#editInfo{
 	color: gray;
-	position: relative;
-	top: 1800px;
+	position: absolute;
+	top: 400px;
+	right: 20px;
 
-	width: 100%;
-	height: 30px;
+}
+
+#editInfo:hover{
+	color: orange;
+
+}
+
+.overClass{
+	padding: 50px
+
+}
+
+.overClass h3{
+	position: relative;
+	top: -30px;
+
+
+}
+
+.overTable{
+	position: relative;
+	left: -52px;
+	top: -52px;
+	width: 1015px;
+
+}
+
+.overTable td{
+  text-align: left;
+  padding: 10px 50px 10px 50px;
+
+}
+
+.overTable th { 
+  background-color: #EFEFEF;
+  text-align: left;
+  padding-top: 50px;
+  padding-left: 50px;
+ 
+
+}
+
+#editIcon{
+	color: gray;
+	position: absolute;
+	top: 50px;
+	right: 20px;
+
+}
+
+#editIcon:hover{
+	color: orange;
 
 }
 
 
+
+
+.histoClass{
+	padding: 50px
+
+}
+
+.histoClass h3{
+	position: relative;
+	top: -30px;
+
+
+}
+
+.histoTable{
+	position: relative;
+	left: -50px;
+	top: -52px;
+	width: 1010px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	color: #494949;
+
+
+	
+
+}
+
+.histoTable td{
+  text-align: left;
+  padding: 10px 0px 5px 50px;
+
+}
+
+.histoTable th { 
+  background-color: #EFEFEF;
+  text-align: left;
+  padding-top: 50px;
+  padding-left: 50px;
+  
+
+ 
+
+}
