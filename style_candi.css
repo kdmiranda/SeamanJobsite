@@ -1,0 +1,360 @@
+body{
+	background: #FFFFFF;
+	font-family: 'Roboto';
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+
+
+}
+.headerLogo{
+	position: absolute;
+	top: 10px;
+	left: 140px;
+	
+
+}
+
+nav{
+	width: 100%;
+	height: 70px;
+	background-color: #07254F;
+	
+
+}
+
+.navMenu a{
+	text-decoration: none;
+	color: white;
+	position: relative;
+	left: 660px;
+	top: 20px;
+	padding: 20px;
+
+}
+
+.navMenu a:hover{
+	color: orange;
+
+}
+
+
+
+.navSearch{
+
+
+	position: absolute;
+	left: 450px;
+	top: 20px;
+	
+
+}
+
+.searchForm{
+	border-radius: 100px;
+	padding:10px;
+
+}
+
+
+
+.navIcons{
+	position: absolute;
+	left: 920px;
+	top: 20px;
+
+
+
+}
+
+
+.userIcon{
+	position: absolute;
+	left: 1080px;
+	top: 12px;
+
+
+
+}
+
+i{
+	color: white;
+	padding: 0px 15px 0px 15px;
+
+
+
+
+
+
+}
+
+i:hover{
+	color: orange;
+
+}
+
+#searchIcn{
+	color: orange;
+	position: absolute;
+	top: 23px;
+	left: 440px;
+
+
+}
+
+.userInfo{
+	 background-color: #FFFFFF;
+	position: relative;
+	top: 40px;
+	left: 120px;
+	width: 80%;
+	height: 200px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.ppic{
+	position: relative;
+	top: 40px;
+	left: 50px;
+}
+
+.infoText{
+	position: relative;
+	top: -90px;
+	left: 180px;
+
+}
+
+#verified{
+	color: #1DA1F2;
+	position: relative;
+	left: -10px;
+
+}
+
+.iButton{
+	position: absolute;
+  top: 5px;
+  right: 250px;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  background-color: #07254F;
+  border-radius: 30px;
+  padding: 5px 20px 5px 20px;
+}
+
+.lUpdate{
+	position: absolute;
+  top: 35px;
+  right: 254px;
+
+}
+
+.pill-nav{
+	position: relative;
+	top: 90px;
+	left: 210px;
+	background-color: #DDDDDD;
+	border-radius: 50px;
+	width: 825px;
+	height: 20%
+
+
+
+}
+
+.pill-nav a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 5px 50px 5px 50px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 50px;
+}
+
+.pill-nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.pill-nav a:focus {
+  background-color: #07254F;
+  color: white;
+}
+
+.tablink {
+  
+  
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+ 
+}
+
+.tabParent .tabcontent{
+	display: none;
+
+}
+
+.tabParent .tabcontent:target{
+	display: block;
+
+}
+
+
+.tabcontent {
+  background-color: white;
+  top: 420px;
+  left: 120px;
+  width: 80%;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ 
+
+}
+#rJobs {
+
+
+
+}
+
+
+.rText{
+
+
+}
+
+td {
+  border: none;
+  text-align: center;
+  padding: 10px 90px 10px 90px;
+}
+
+#vMore{
+	position: absolute;
+	left: 890px;
+	top: 600px;
+}
+
+
+
+#res{
+
+  background-color: white;
+  position: absolute;
+  top: 420px;
+  left: 120px;
+  height:300px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+
+}
+
+.overClass{
+	padding: 50px
+
+}
+
+.overClass h3{
+	position: relative;
+	top: -30px;
+
+
+}
+
+.overTable{
+	position: relative;
+	left: -52px;
+	top: -52px;
+	width: 1015px;
+
+}
+
+.overTable td{
+  text-align: left;
+  padding: 10px 50px 10px 50px;
+
+}
+
+.overTable th { 
+  background-color: #EFEFEF;
+  text-align: left;
+  padding-top: 50px;
+  padding-left: 50px;
+ 
+
+}
+
+#editIcon{
+	color: gray;
+	position: absolute;
+	top: 50px;
+	right: 20px;
+
+}
+
+#editIcon:hover{
+	color: orange;
+
+}
+
+.footerCont{
+	background-color: #07254F;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 250px;
+}
+
+.footerLogo{
+	position: relative;
+	top: 20px;
+	left: 500px;
+
+}
+
+.fText_1{
+	color: white;
+	position: absolute;
+	left: 100px;
+
+
+}
+
+.fText_2{
+	color: white;
+	position: absolute;
+	left: 400px
+	
+
+}
+
+.fText_3{
+	color: white;
+	position: absolute;
+	left: 700px
+}
+
+.fFollow{
+	color: white;
+	position: absolute;
+	left: 1000px
+
+}
+
+.footerWhite{
+	color: gray;
+	position: relative;
+	top: 1800px;
+
+	width: 100%;
+	height: 30px;
+
+}
+
+

@@ -1,0 +1,116 @@
+
+body{
+
+	font-family: 'Roboto';
+}
+
+.logCont{
+	background-color: #FFFFFF;
+	position: relative;
+	top: 40px;
+	left: 150px;
+	width: 80%;
+	height: 500px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.logoMain{
+	position: relative;
+	top: 20px;
+	left: 40px;
+}
+
+.textMain{
+
+	color: gray;
+	position: relative;
+	top: 10px;
+	left: 110px;
+}
+
+.logoFb{
+	position: relative;
+	top: 10px;
+	left: 85px;
+}
+
+.or{
+	color: gray;
+	position: relative;
+	top: 15px;
+	left: 170px;
+}
+
+form{
+	position: relative;
+	top: 20px;
+	left: 100px;
+
+}
+
+.inputClass{
+	width: 25%;
+	height: 30px;
+	position: relative;
+	left: -40px;
+}
+
+.fPass {
+	text-decoration: none;
+	color: gray;
+	position: relative;
+	left: 140px;
+
+}
+
+.fPass:Hover{
+		text-decoration: underline;
+
+
+}
+
+.checkClass{
+		color: gray;
+
+	position: relative;
+	left: -45px;
+
+
+}
+
+.checkWord{
+	color: gray;
+	position: absolute;
+	left: -20px;
+	top: 115px;
+
+
+}
+
+.loginBtn{
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  background-color: #07254F;
+  border-radius: 50px;
+  padding: 10px 20px 10px 20px ;
+  position: relative;
+  top: 50px;
+  left: 30px;
+}
+
+.loginImg{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+
+}
+
+.mainForm{
+	position: relative;
+	top: 20px;
+	left: 70px;
+
+}

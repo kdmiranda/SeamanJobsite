@@ -1,0 +1,351 @@
+body{
+	background: #FFFFFF;
+	font-family: 'Roboto';
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	display: inline-block;
+
+
+}
+
+.headerLogo{
+	position: absolute;
+	top: 20px;
+	left: 60px;
+	font-family: Roboto;
+	
+
+}
+.headerText{
+	position: absolute;
+	text-align: center;
+	top: 250px;
+	left: 350px;
+	color: #FFFFFF;
+	line-height: 30px;
+}
+
+.headerBanner{
+	margin-top: -10%
+
+}
+
+.headerText{
+	text-align: center;
+}
+
+.searchBar{
+	position: absolute;
+	text-align: center;
+	top: 420px;
+	left: 450px;
+	background-color: white;
+	border-radius: 50px;
+	padding: 10px;
+	color: transparent;
+	outline: none;
+
+}
+
+nav{
+	position: absolute;
+  	top: 40px;
+  	right: 100px;
+
+}
+
+
+nav a{
+
+	color: white;
+	padding: 30px;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: Roboto;
+}
+
+
+
+.loginButton{
+
+	background-color: transparent;
+	border: 2px solid #FFFFFF;
+	border-radius: 50px;
+	color: white;
+
+
+}
+.signButton{
+
+	background-color: white;
+	border: 2px solid #FFFFFF;
+	border-radius: 50px;
+	color: #07254F;
+
+}
+
+.subMenu{
+	position: absolute;
+  	top: 600px;
+  	right: 300px;
+
+
+}
+.subMenu .button{
+	background-color: #FFFFFF; 
+  	border: 1px solid gray;
+  	color: #07254F;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	font-size: 16px;
+  	cursor: pointer;
+  	float: left;
+  	top: 1000px;
+  	right: 250px;
+  	height: 150px;
+  	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  	
+  
+
+
+}
+
+.subMenu .button:not(:last-child) {
+  border-right: none;
+}
+
+.subMenu .button:hover {
+  background-color: #07254F;
+  color: White;
+}
+
+.subMenu .button:focus {
+  background-color: #07254F;
+  color: #FFFFFF;
+  height: 10EM;
+}
+
+
+.subItems{
+	position: relative;
+	top: 200px;
+	left: 200px;
+
+}
+
+.itemCap{
+	position: absolute;
+	top: 850px;
+	left: 800px;
+
+}
+
+.itemCap .font {
+	text-decoration: none;
+}
+
+.latestNews{
+	background-color: #F4F5F8;
+	position: relative;
+	top: 200px;
+	left: 0px;
+}
+
+.newsHeader{
+	position: absolute;
+	top: 100px;
+	left: 500px;
+}
+
+
+.newsTitle{
+	position: absolute;
+	top: 200px;
+	left: 200px;
+}
+
+.newsCap{
+	position: absolute;
+	top: 275px;
+	left: 200px;
+}
+
+.newsCont1{
+	
+	position: absolute;
+	top: 200px;
+	left: 550px;
+	line-height: 12px;
+}
+
+.newsCont2{
+	
+	position: absolute;
+	top: 200px;
+	left: 800px;
+	line-height: 12px;
+}
+
+
+.LeftTitle{
+	position: relative;
+	top: 500px;
+	left: 150px;
+
+}
+
+
+.tTitle{
+	position: absolute;
+	top: 1600px;
+	background-color: #E46424;
+	width: 600px;
+	height: 485px;
+
+}
+
+.tHeader{
+	position: absolute;
+	top: 100px;
+	left: 150px;
+	color: white;
+
+}
+
+.tButton{
+  position: absolute;
+  top: 200px;
+  left: 60px;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  background-color: #07254F;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+
+.tBlueCont{
+
+	position: absolute;
+	top: 1600px;
+	right: 0px;
+}
+
+.tText1{
+	color: white;
+	position: absolute;
+	top: 1750px;
+	right: 400px;
+	line-height: 15px;
+	letter-spacing: 2px;
+}
+
+.tText2{
+	color: white;
+	position: absolute;
+	top: 1750px;
+	right: 50px;
+	line-height: 15px;
+	letter-spacing: 2px;
+}
+
+.nLetter{
+	position: absolute;
+	top: 2000px;
+}
+
+.nTitle{
+	position: absolute;
+	top: 100px;
+	left: 350px;
+	font-size: 50px;
+}
+
+.nCaption{
+	position: absolute;
+	top: 250px;
+	left: 370px;
+	text-align: center;
+	
+
+}
+
+.submitButton{
+	background-color: #07254F;
+	border-color: white;
+	font-size: 20px;
+
+	color: #FFFFFF;
+	width: 97%;
+	height: 70px;
+
+}
+
+.emailBox{
+	width: 96%;
+	height: 55px;
+	text-align: center;
+}
+
+.footerCont{
+	background-color: #07254F;
+	position: relative;
+	top: 1800px;
+	width: 100%;
+	height: 250px;
+}
+
+.footerLogo{
+	position: relative;
+	top: 20px;
+	left: 500px;
+
+}
+
+.fText_1{
+	color: white;
+	position: absolute;
+	left: 100px;
+
+
+}
+
+.fText_2{
+	color: white;
+	position: absolute;
+	left: 400px
+	
+
+}
+
+.fText_3{
+	color: white;
+	position: absolute;
+	left: 700px
+}
+
+.fFollow{
+	color: white;
+	position: absolute;
+	left: 1000px
+
+}
+
+.footerWhite{
+	color: gray;
+	position: relative;
+	top: 1800px;
+
+	width: 100%;
+	height: 30px;
+
+}
+
+
