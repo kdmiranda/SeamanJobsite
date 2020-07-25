@@ -4,23 +4,18 @@ body{
 	line-height: 1.5;
 	margin: 0;
 	padding: 0;
-
-
 }
+
 .headerLogo{
 	position: absolute;
 	top: 10px;
 	left: 140px;
-	
-
 }
 
 nav{
 	width: 100%;
 	height: 70px;
 	background-color: #07254F;
-	
-
 }
 
 .navMenu a{
@@ -30,24 +25,18 @@ nav{
 	left: 660px;
 	top: 20px;
 	padding: 20px;
-
 }
 
 .navMenu a:hover{
 	color: orange;
-
 }
 
 
 
 .navSearch{
-
-
 	position: absolute;
 	left: 450px;
 	top: 20px;
-	
-
 }
 
 .searchForm{
@@ -56,41 +45,25 @@ nav{
 
 }
 
-
-
 .navIcons{
 	position: absolute;
 	left: 920px;
 	top: 20px;
-
-
-
 }
-
 
 .userIcon{
 	position: absolute;
 	left: 1080px;
 	top: 12px;
-
-
-
 }
 
 i{
 	color: white;
 	padding: 0px 15px 0px 15px;
-
-
-
-
-
-
 }
 
 i:hover{
 	color: orange;
-
 }
 
 #searchIcn{
@@ -98,8 +71,6 @@ i:hover{
 	position: absolute;
 	top: 23px;
 	left: 440px;
-
-
 }
 
 .userInfo{
@@ -122,14 +93,12 @@ i:hover{
 	position: relative;
 	top: -90px;
 	left: 180px;
-
 }
 
 #verified{
 	color: #1DA1F2;
 	position: relative;
 	left: -10px;
-
 }
 
 .iButton{
@@ -151,7 +120,6 @@ i:hover{
 	position: absolute;
   top: 35px;
   right: 254px;
-
 }
 
 .pill-nav{
@@ -161,10 +129,7 @@ i:hover{
 	background-color: #DDDDDD;
 	border-radius: 50px;
 	width: 825px;
-	height: 20%
-
-
-
+	height: 20;
 }
 
 .pill-nav a {
@@ -188,25 +153,19 @@ i:hover{
 }
 
 .tablink {
-  
-  
   float: left;
   border: none;
   outline: none;
   cursor: pointer;
- 
 }
 
 .tabParent .tabcontent{
 	display: none;
-
 }
 
 .tabParent .tabcontent:target{
 	display: block;
-
 }
-
 
 .tabcontent {
   background-color: white;
@@ -214,20 +173,11 @@ i:hover{
   left: 120px;
   width: 80%;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
- 
 
 }
 #rJobs {
 	position: relative;
 	top: 150px;
-
-
-}
-
-
-.rText{
-
-
 }
 
 td {
@@ -244,27 +194,21 @@ td {
 
 
 #res{
-
   background-color: white;
   position: absolute;
   top: 420px;
   left: 120px;
   height:300px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-
-
 }
 
 .overClass{
-	padding: 50px
-
+	padding: 50px;
 }
 
 .overClass h3{
 	position: relative;
 	top: -30px;
-
-
 }
 
 .overTable{
@@ -272,13 +216,11 @@ td {
 	left: -52px;
 	top: -52px;
 	width: 1015px;
-
 }
 
 .overTable td{
   text-align: left;
   padding: 10px 50px 10px 50px;
-
 }
 
 .overTable th { 
@@ -286,8 +228,6 @@ td {
   text-align: left;
   padding-top: 50px;
   padding-left: 50px;
- 
-
 }
 
 #editIcon{
@@ -295,27 +235,22 @@ td {
 	position: absolute;
 	top: 50px;
 	right: 20px;
-
 }
 
 #editIcon:hover{
 	color: orange;
-
 }
 
 
 
 
 .infoClass{
-	padding: 50px
-
+	padding: 50px;
 }
 
 .infoClass h3{
 	position: relative;
 	top: -30px;
-
-
 }
 
 .infoTable{
@@ -325,16 +260,11 @@ td {
 	width: 1010px;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 	color: #494949;
-
-
-	
-
 }
 
 .infoTable td{
   text-align: left;
   padding: 10px 0px 5px 50px;
-
 }
 
 .infoTable th { 
@@ -342,10 +272,6 @@ td {
   text-align: left;
   padding-top: 50px;
   padding-left: 50px;
-  
-
- 
-
 }
 
 
@@ -354,24 +280,19 @@ td {
 	position: absolute;
 	top: 400px;
 	right: 20px;
-
 }
 
 #editInfo:hover{
 	color: orange;
-
 }
 
 .overClass{
-	padding: 50px
-
+	padding: 50px;
 }
 
 .overClass h3{
 	position: relative;
 	top: -30px;
-
-
 }
 
 .overTable{
@@ -379,13 +300,11 @@ td {
 	left: -52px;
 	top: -52px;
 	width: 1015px;
-
 }
 
 .overTable td{
   text-align: left;
   padding: 10px 50px 10px 50px;
-
 }
 
 .overTable th { 
@@ -393,8 +312,6 @@ td {
   text-align: left;
   padding-top: 50px;
   padding-left: 50px;
- 
-
 }
 
 #editIcon{
@@ -402,27 +319,19 @@ td {
 	position: absolute;
 	top: 50px;
 	right: 20px;
-
 }
 
 #editIcon:hover{
 	color: orange;
-
 }
-
-
-
 
 .histoClass{
 	padding: 50px
-
 }
 
 .histoClass h3{
 	position: relative;
 	top: -30px;
-
-
 }
 
 .histoTable{
@@ -432,16 +341,11 @@ td {
 	width: 1010px;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 	color: #494949;
-
-
-	
-
 }
 
 .histoTable td{
   text-align: left;
   padding: 10px 0px 5px 50px;
-
 }
 
 .histoTable th { 
@@ -449,8 +353,5 @@ td {
   text-align: left;
   padding-top: 50px;
   padding-left: 50px;
-  
-
- 
-
 }
+

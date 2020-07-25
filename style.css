@@ -1,23 +1,20 @@
 body{
 	background: #FFFFFF;
-	font-family: 'Roboto';
+	font-family: 'Arial';
 	line-height: 1.5;
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	display: inline-block;
-
-
+	display: inline;
 }
 
 .headerLogo{
 	position: absolute;
 	top: 20px;
 	left: 60px;
-	font-family: Roboto;
-	
-
+	font-family: Arial;
 }
+
 .headerText{
 	position: absolute;
 	text-align: center;
@@ -29,7 +26,6 @@ body{
 
 .headerBanner{
 	margin-top: -10%
-
 }
 
 .headerText{
@@ -46,53 +42,42 @@ body{
 	padding: 10px;
 	color: transparent;
 	outline: none;
-
 }
 
 nav{
 	position: absolute;
   	top: 40px;
   	right: 100px;
-
 }
 
-
 nav a{
-
 	color: white;
 	padding: 30px;
 	text-decoration: none;
 	font-size: 20px;
-	font-family: Roboto;
+	font-family: Arial;
 }
 
-
-
 .loginButton{
-
 	background-color: transparent;
 	border: 2px solid #FFFFFF;
 	border-radius: 50px;
 	color: white;
-
-
 }
-.signButton{
 
+.signButton{
 	background-color: white;
 	border: 2px solid #FFFFFF;
 	border-radius: 50px;
 	color: #07254F;
-
 }
 
 .subMenu{
 	position: absolute;
   	top: 600px;
   	right: 300px;
-
-
 }
+
 .subMenu .button{
 	background-color: #FFFFFF; 
   	border: 1px solid gray;
@@ -106,15 +91,6 @@ nav a{
   	top: 1000px;
   	right: 250px;
   	height: 150px;
-  	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-  	
-  
-
-
-}
-
-.subMenu .button:not(:last-child) {
-  border-right: none;
 }
 
 .subMenu .button:hover {
@@ -133,14 +109,12 @@ nav a{
 	position: relative;
 	top: 200px;
 	left: 200px;
-
 }
 
 .itemCap{
 	position: absolute;
 	top: 850px;
 	left: 800px;
-
 }
 
 .itemCap .font {
@@ -174,7 +148,6 @@ nav a{
 }
 
 .newsCont1{
-	
 	position: absolute;
 	top: 200px;
 	left: 550px;
@@ -182,7 +155,6 @@ nav a{
 }
 
 .newsCont2{
-	
 	position: absolute;
 	top: 200px;
 	left: 800px;
@@ -194,7 +166,6 @@ nav a{
 	position: relative;
 	top: 500px;
 	left: 150px;
-
 }
 
 
@@ -204,7 +175,6 @@ nav a{
 	background-color: #E46424;
 	width: 600px;
 	height: 485px;
-
 }
 
 .tHeader{
@@ -212,7 +182,6 @@ nav a{
 	top: 100px;
 	left: 150px;
 	color: white;
-
 }
 
 .tButton{
@@ -223,7 +192,7 @@ nav a{
   color: white;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: block;
   font-size: 20px;
   background-color: #07254F;
   border-radius: 10px;
@@ -232,7 +201,6 @@ nav a{
 
 
 .tBlueCont{
-
 	position: absolute;
 	top: 1600px;
 	right: 0px;
@@ -273,19 +241,15 @@ nav a{
 	top: 250px;
 	left: 370px;
 	text-align: center;
-	
-
 }
 
 .submitButton{
 	background-color: #07254F;
 	border-color: white;
 	font-size: 20px;
-
 	color: #FFFFFF;
 	width: 97%;
 	height: 70px;
-
 }
 
 .emailBox{
@@ -306,23 +270,18 @@ nav a{
 	position: relative;
 	top: 20px;
 	left: 500px;
-
 }
 
 .fText_1{
 	color: white;
 	position: absolute;
 	left: 100px;
-
-
 }
 
 .fText_2{
 	color: white;
 	position: absolute;
 	left: 400px
-	
-
 }
 
 .fText_3{
@@ -334,18 +293,13 @@ nav a{
 .fFollow{
 	color: white;
 	position: absolute;
-	left: 1000px
-
+	left: 1000px;
 }
 
 .footerWhite{
 	color: gray;
 	position: relative;
 	top: 1800px;
-
 	width: 100%;
 	height: 30px;
-
 }
-
-
